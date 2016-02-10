@@ -1,0 +1,29 @@
+_repo: A-History-of-the-Inquisition-of-Spain-vol-3_46509
+covers:
+- cover_type: archival
+  image_path: 46509/46509-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Lea, Henry Charles
+    alias: Lea, H. C. (Henry Charles)
+    birthdate: 1825
+    deathdate: 1909
+    gutenberg_agent_id: '40029'
+    url: http://www.gutenberg.org/2009/agents/40029
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lea
+description: ''
+gutenberg_issued: '2014-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Inquisition -- Spain'
+title: A History of the Inquisition of Spain; vol. 3
+url: http://www.gutenberg.org/ebooks/46509
